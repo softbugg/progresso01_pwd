@@ -7,3 +7,12 @@ algo maior disso, Além da minha imaginação quem quiser implementar mais coisa
 Email: scrytrap@gmail.com 
 
 Obrigado :)
+
+#Para instalar:
+
+- Passe o computer.py para uma pasta chamada program e inicie cli.py.
+
+ex: python3 cli.py --system or --os
+   ṕython3 cli.py --name or --process
+   python3 cli.py --cpu
+   python3 cli.py --arc
